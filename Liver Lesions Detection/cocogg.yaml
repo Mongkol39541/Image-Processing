@@ -1,0 +1,4 @@
+train: ../datasets/train/images
+val: ../datasets/val/images
+nc: 3
+names: ['class1', 'class2', 'class3']
